@@ -8,7 +8,7 @@ These badge images are obtained through Discord Assets.
 
 > Here you can see the lists of User and Application flags that represent badges:
 
-## User Flags (14)
+## User Flags (12 badges)
 
 | Flag Name                | Value   | Description                                                                                                                     |
 | ------------------------ | ------- | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -31,7 +31,7 @@ These badge images are obtained through Discord Assets.
 
 **Something you need to know:** Some flags (in the case of `VERIFIED_BOT` and `SYSTEM`) do not represent a badge, instead they represent an indicator of what the user is. The images of the flags (mockups) are only available in PNG format with 5000 x 1926 pixels and 7102 x 1926 pixels respectively.
 
-## Application Flags (1)
+## Application Flags (1 badge)
 
 | Flag Name                 | Value   | Description                                                                                                                      |
 | ------------------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------- |
